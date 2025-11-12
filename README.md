@@ -1,0 +1,1 @@
+Para abrir o programa basta abrir o executável TransformadorContaAzul.exe que consta na pasta "dist".
